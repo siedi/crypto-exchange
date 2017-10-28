@@ -1,3 +1,6 @@
+
+* Add historical trades and transaction data.
+
 # v2.3.1
 
 * Fix GDAX package to install.
